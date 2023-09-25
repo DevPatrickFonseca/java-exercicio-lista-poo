@@ -52,10 +52,10 @@ Este exercício visa explorar e praticar a lógica de programação e POO em Jav
     Exemplo:
     Se uma nova pessoa contratada for:
     ```html
-      Nome: Maria da Silva;
-      CPF: 158.699.457-31;
-      Endereço: Rua da Aurora, 118;
-      Salário: 15000.
+      Nome: Bruce Wayne;
+      CPF: 123.456.789-00;
+      Endereço: Rua 1, Gotham City;
+      Salário: 1000000.0.
     ```
 
 ### 2. **Conta Poupança:**
