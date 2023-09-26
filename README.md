@@ -14,9 +14,9 @@
 
 ## <strong>🎯Habilidades Utilizadas</strong><br />
 
-- Utilizar conceitos de abstração para criar classes em Java.
-- Implementar getters e setters em classes de programação para acessar e modificar atributos.
-- Utilizar o encapsulamento para ocultar o estado interno de um objeto e a herança para criar classes derivadas de outras classes.
+- Utilizei conceitos de abstração para criar classes em Java.
+- Implementei getters e setters em classes de programação para acessar e modificar atributos.
+- Utilizei o encapsulamento para ocultar o estado interno de um objeto e a herança para criar classes derivadas de outras classes.
 
 Este exercício visa explorar e praticar a lógica de programação e POO em Java.
 
